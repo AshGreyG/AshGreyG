@@ -21,7 +21,13 @@ Hi there 👋, I am AshGrey (github username AshGreyG is just for avoiding dupli
   + [ ] Proficient in frontend.
   + [ ] Experienced in git.
 
-## Repository List
+## Repositories List
+
+<details>
+
+<summary>
+  Repositories List is so long, please click to unfold.
+</summary>
 
 + Algorithm in different programming languages:
   + [Algorithm-C](https://github.com/AshGreyG/Algorithm-C)
@@ -45,3 +51,6 @@ Hi there 👋, I am AshGrey (github username AshGreyG is just for avoiding dupli
   + [ashgreyg.github.io](https://github.com/AshGreyG/ashgreyg.github.io)
   + [Toy-Code](https://github.com/AshGreyG/Toy-Code)
   + [THU-Homework](https://github.com/AshGreyG/THU-Homework)
+
+</details>
+

@@ -16,11 +16,12 @@ Hi there 👋, I am AshGrey (github username AshGreyG is just for avoiding dupli
   + [ ] [*TypeScript Handbook*](https://typescriptlang.org/docs/handbook)
   + [ ] [*Introduction to Modern Cryptography*](https://eclass.uniwa.gr/modules/document/file.php/CSCYB105/Reading%20Material/%5BJonathan_Katz%2C_Yehuda_Lindell%5D_Introduction_to_Mo%282nd%29.pdf)
   + [ ] [*Learn Git Branching*](https://learngitbranching.js.org/?NODEMO)
+  + [ ] *CSS:The Definitive Guide*
 + Courses currently studying:
   + [ ] [Blockchain](http://zhenxiao.com/album/juicebox/web/?s=2018_blockchain)
 + Recent goals:
   + [ ] Become a Web3 developer, find a Web3 remote job.
-  + [ ] Proficient in frontend.
+  + [ ] Proficient in frontend, especially CSS.
   + [ ] Experienced in git.
   + [ ] Get started with cryptography.
 

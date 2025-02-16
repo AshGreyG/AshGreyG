@@ -17,7 +17,7 @@ Hi there 👋, I am AshGrey (github username AshGreyG is just for avoiding dupli
   + [ ] [*Introduction to Modern Cryptography*](https://eclass.uniwa.gr/modules/document/file.php/CSCYB105/Reading%20Material/%5BJonathan_Katz%2C_Yehuda_Lindell%5D_Introduction_to_Mo%282nd%29.pdf)
   + [ ] [*Learn Git Branching*](https://learngitbranching.js.org/?NODEMO)
   + [ ] *CSS:The Definitive Guide*
-  + [ ] [*Structure-and-Interpretation-of-Computer-Programs*](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
+  + [ ] [*Structure and Interpretation of Computer Programs*](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
 + Courses currently studying:
   + [ ] [Blockchain](http://zhenxiao.com/album/juicebox/web/?s=2018_blockchain)
 + Recent goals:

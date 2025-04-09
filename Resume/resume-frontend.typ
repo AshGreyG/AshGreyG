@@ -16,6 +16,7 @@
     zh: [#year 年 #month 月],
     en: [#months.at(month - 1), #year]
   )
+  let translate-stack = translate(zh: [技术栈], en: [Technical Stack])
   let current = translate(
     zh: [至今],
     en: [Present]
@@ -51,6 +52,31 @@
         bl: [前端开发，智能合约开发]
       )[
         - 作为前端开发人员，组队参与 #link("https://z2h.tech")[VitaFlux-ZTH] 社区黑客松比赛
+      ]
+    )
+  }
+
+  let facesun-frontend = {
+    translate(
+      en: cv-entry(
+        tl: [*Facesun Frontend*, the frontend part of Chaoyang Inspection System],
+        tr: link-for-github("AshGreyG/Facesun-Frontend")
+      )[
+        - #translate-stack: React + React Router + React i18n Next + Axios + Material Design Icons
+        - Design the UI of Facesun according to the design concept of Material Design 3 (MD3).
+        - Receive data from the backend using Axios and use TypeScript's static typing to constrain the JSON data sent from the backend.
+        - Use React Router to develop a login page, a working page and an administrator user management page.
+        - Use React i18n Next to add English and Chinese interface languages.
+      ],
+      zh: cv-entry(
+        tl :[*Facesun Frontend*, 北京市朝阳区网警自动化勘验系统科研项目的前端部分],
+        tr: link-for-github("AshGreyG/Facesun-Frontend")
+      )[
+        - #translate-stack: React + React Router + React i18n Next + Axios + Material Design Icons
+        - 根据 Material Design 3 (MD3) 设计思想设计界面UI
+        - 使用 Axios 获取后端 API 传回的 JSON 数据并用 TypeScript 静态类型约束后端数据
+        - 使用 React Router 设计登录页面，工作页面以及管理员用户管理界面
+        - 使用 React i18n Next 添加中文和英文的界面语言
       ]
     )
   }
@@ -112,7 +138,7 @@
           - CSS: familiar with CSS3, experienced in using flexbox and grid layout to create complex web page layouts, proficient in using CSS pre-processor SCSS, Less, Stylus and atomic CSS library Tailwind CSS and Windi CSS.
         ],
         zh: [
-          - CSS: 熟悉 CSS3，熟练使用弹性盒模型以及网格布局创建复杂网页。熟悉 CSS 预处理器 SCSS，Less，Stylus 以及 原子化 CSS 库 Tailwind CSS 和 Windi CSS
+          - CSS: 熟悉 CSS3，熟练使用弹性盒模型以及网格布局创建复杂网页。/* 熟悉 CSS 预处理器 SCSS，Less，Stylus 以及 原子化 CSS 库 Tailwind CSS 和 Windi CSS */
         ]
       )
     }
@@ -144,7 +170,7 @@
           - Framework: familiar with React and its peripheral ecosystem like React Router, Jotai and Zustand.
         ],
         zh: [
-          - 框架: 熟悉 React 框架及其周边生态，例如 React Router, Jotai 以及 Zustand
+          - 框架: 熟悉 React 框架及其周边生态
         ]
       )
     }
@@ -167,6 +193,7 @@
   thuba
 
   translate(zh: [== 项目经历], en: [== Related Projects])
+  facesun-frontend
   type-challenges
 
   translate(zh: [== 技能], en: [== Skills])

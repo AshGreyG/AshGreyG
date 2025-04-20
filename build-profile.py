@@ -1,7 +1,7 @@
 from github import Github
 import os
 
-g = Github(os.environ["GITHUB_TOKEN"])
+g = Github(os.environ["GH_TOKEN"])
 MY_NAME = "AshGreyG"
 
 def get_percent_type_challenges() -> float :

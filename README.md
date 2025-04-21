@@ -18,6 +18,8 @@ duplicate with an existing username), you can call me Grey He, or 何昱晖 in C
 
 ## Currently Status
 
+### Study and Goals
+
 + Books / Docs currently reading:
   + [ ] [*The Rust Programming Language*](https://docs.rust-lang.org)
   + [ ] [*TypeScript Handbook*](https://typescriptlang.org/docs/handbook)
@@ -32,6 +34,8 @@ duplicate with an existing username), you can call me Grey He, or 何昱晖 in C
   + [ ] Proficient in frontend, especially CSS.
   + [ ] Experienced in git.
   + [ ] Get started with cryptography.
+
+### Realize Repositories Status
 
 <!-- Begin Realize Status -->
 ``` plaintext18.09```<!-- End Realize Status -->

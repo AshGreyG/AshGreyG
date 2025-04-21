@@ -1,8 +1,23 @@
 from github import Github, Auth
 import os
+import math
 
 g = Github(auth = Auth.Token(os.environ["GH_TOKEN"]))
 MY_NAME = "AshGreyG"
+
+def percent_visualize(num: float) -> str :
+    """
+    This function is to visualize the working process
+    ░   ->  0%
+    ▒   ->  1%
+    ▓   ->  3%
+    █   ->  5%
+    """
+
+    num_percent_5 = math.floor(num / 5)
+    num_percent_3 = math.floor((num - num_percent_5 * 5) / 3)
+    num_percent_1 = math.floor(num - num_percent_5 * 5 - num_percent_3 * 3)
+    return "█" * num_percent_5 + "▓" * num_percent_3 + "▒" * num_percent_1 + "░" * (20 - num_percent_5 - num_percent_3 - num_percent_1)
 
 def get_percent_type_challenges() -> float :
     """
@@ -27,11 +42,18 @@ if __name__ == "__main__" :
     found_marker = False
     for line in lines :
         if line.strip() == "<!-- Begin Realize Status -->" :
+            percent_type_challenges = get_percent_type_challenges()
             found_marker = True
             updated_lines.append(line)
-            updated_lines.append("``` plaintext")
-            updated_lines.append(f"{get_percent_type_challenges()}")
-            updated_lines.append("```")
+            updated_lines.append("``` plaintext\n")
+            updated_lines.append(
+                "{:<30} {:<20} {:>8}".format(
+                    "To-Realize-Type-Challenges",
+                    percent_visualize(percent_type_challenges),
+                    percent_type_challenges
+                )
+            )
+            updated_lines.append("```\n")
         elif line.strip() == "<!-- End Realize Status -->" :
             found_marker = False
             updated_lines.append(line)

@@ -38,39 +38,5 @@ duplicate with an existing username), you can call me Grey He, or 何昱晖 in C
 ### Realize Repositories Status
 
 <!-- Begin Realize Status -->
-``` plaintext18.09```<!-- End Realize Status -->
-
-## Repositories List
-
-<details>
-
-<summary>
-  Repositories List is so long, please click to unfold.
-</summary>
-
-+ Algorithm in different programming languages:
-  + [Algorithm-C](https://github.com/AshGreyG/Algorithm-C)
-  + [Algorithm-Cpp](https://github.com/AshGreyG/Algorithm-Cpp)
-  + [Algorithm-Python-With-Manim](https://github.com/AshGreyG/Algorithm-Python-With-Manim)
-+ Learning repositories:
-  + [To-Learn-By-Books](https://github.com/AshGreyG/To-Learn-By-Books)
-  + [To-Learn-By-Courses](https://github.com/AshGreyG/To-Learn-By-Courses)
-  + Learning With Demo-Mini Project
-    + frontend
-      + [To-Learn-By-Project-100days-CSS](https://github.com/AshGreyG/To-Learn-By-Project-100days-CSS)
-      + [To-Learn-By-Project-React-Todo](https://github.com/AshGreyG/To-Learn-By-Project-React-Todo)
-+ Single Project
-  + C++
-    + [Robox](https://github.com/AshGreyG/Robox)
-+ AIR
-+ Personal Utility
-  + [Dotfiles](https://github.com/AshGreyG/Dotfiles)
-  + [AshGreyG](https://github.com/AshGreyG/AshGreyG)
-  + [ashgreyg.github.io-Archive-v1](https://github.com/AshGreyG/ashgreyg.github.io-Archive-v1)
-  + [ashgreyg.github.io-Archive-v2](https://github.com/AshGreyG/ashgreyg.github.io-Archive-v2)
-  + [ashgreyg.github.io](https://github.com/AshGreyG/ashgreyg.github.io)
-  + [Toy-Code](https://github.com/AshGreyG/Toy-Code)
-  + [THU-Homework](https://github.com/AshGreyG/THU-Homework)
-
-</details>
-
+``` plaintext
+To-Realize-Type-Challenges     ███▓░░░░░░░░░░░░░░░░    18.09```

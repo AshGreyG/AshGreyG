@@ -38,4 +38,7 @@ if __name__ == "__main__" :
         elif not found_marker :
             updated_lines.append(line)
 
+    with open("./README.md", "w", encoding="utf-8") as file:
+        file.writelines(updated_lines)
+
     print("🎉 All data has been written into profile.")

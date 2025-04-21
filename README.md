@@ -35,7 +35,7 @@ duplicate with an existing username), you can call me Grey He, or 何昱晖 in C
 
 <!-- Begin Realize Status -->
 
-<!-- End   Realize Status -->
+<!-- End Realize Status -->
 
 ## Repositories List
 

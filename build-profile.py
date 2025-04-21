@@ -1,7 +1,7 @@
-from github import Github
+from github import Github, Auth
 import os
 
-g = Github(os.environ["GH_TOKEN"])
+g = Github(auth = Auth.token(os.environ["GH_TOKEN"]))
 MY_NAME = "AshGreyG"
 
 def get_percent_type_challenges() -> float :
@@ -17,7 +17,7 @@ def get_percent_type_challenges() -> float :
     realize_content = realize_repo.get_contents("questions")
     realize_count = sum(1 for content in realize_content if content.type == "dir")
     
-    return my_count * 1.0 / realize_count
+    return my_count * 100.0 / realize_count
 
 if __name__ == "__main__" :
     lines = []

@@ -47,7 +47,7 @@ if __name__ == "__main__" :
             updated_lines.append(line)
             updated_lines.append("``` plaintext\n")
             updated_lines.append(
-                "{:<30} {:<20} {:>8}".format(
+                "{:<30} {:<20} {:>8}%\n".format(
                     "To-Realize-Type-Challenges",
                     percent_visualize(percent_type_challenges),
                     percent_type_challenges

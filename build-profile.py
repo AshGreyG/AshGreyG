@@ -75,7 +75,7 @@ def get_today_goal() -> str :
     with open("./Todo/" + str(now.year) + "/" + str(now.month).zfill(2) + ".md", "r", encoding="utf-8") as file :
         lines = file.readlines()
 
-    for lin in lines :
+    for line in lines :
         if line[2:12] == today :
             found_today_marker = True
             return_str += line

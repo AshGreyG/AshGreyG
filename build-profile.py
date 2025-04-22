@@ -72,7 +72,7 @@ def get_today_goal() -> str :
     found_today_marker = False
     return_str = ""
 
-    with open("./Todo" + now.year + "/" + str(now.month).zfill(2) + ".md") as file :
+    with open("./Todo" + str(now.year) + "/" + str(now.month).zfill(2) + ".md") as file :
         lines = file.readlines()
 
     for lin in lines :

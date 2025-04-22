@@ -1,6 +1,7 @@
 from github import Github, Auth
 import os
 import math
+import datetime
 
 g = Github(auth = Auth.Token(os.environ["GH_TOKEN"]))
 MY_NAME = "AshGreyG"
@@ -61,6 +62,28 @@ REALIZE_DATA = [
     ["To-Realize-Underscore",      get_percent_underscore()]
 ]
 
+# --------------------- #
+# Get the Goal of Today #
+# --------------------- #
+
+def get_today_goal() -> str :
+    now = datetime.datetime.now()
+    today = datetime.datetime.today().strftime("%Y-%m-%d")
+    found_today_marker = False
+    return_str = ""
+
+    with open("./Todo" + now.year + "/" + str(now.month).zfill(2) + ".md") as file :
+        lines = file.readlines()
+
+    for lin in lines :
+        if line[2:12] == today :
+            found_today_marker = True
+            return_str += line
+        elif found_today_marker and line[2] == " " :
+            return_str += line
+        elif found_today_marker and line[2] != " " :
+            return return_str
+
 if __name__ == "__main__" :
     with open("./README.md", "r", encoding="utf--8") as file :
         lines = file.readlines()
@@ -69,7 +92,6 @@ if __name__ == "__main__" :
     found_marker = False
     for line in lines :
         if line.strip() == "<!-- Begin Realize Status -->" :
-            percent_type_challenges = get_percent_type_challenges()
             found_marker = True
             updated_lines.append(line)
             updated_lines.append("``` plaintext\n")
@@ -79,6 +101,13 @@ if __name__ == "__main__" :
 
             updated_lines.append("```\n")
         elif line.strip() == "<!-- End Realize Status -->" :
+            found_marker = False
+            updated_lines.append(line)
+        elif line.strip() == "<!-- Begin Goal of Today -->" :
+            found_marker = True
+            updated_lines.append(line)
+            updated_lines.append(get_today_goal())
+        elif line.strip() == "<!-- End Goal of Today -->" :
             found_marker = False
             updated_lines.append(line)
         elif not found_marker :

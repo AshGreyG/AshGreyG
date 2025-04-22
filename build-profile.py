@@ -70,19 +70,24 @@ def get_today_goal() -> str :
     now = datetime.datetime.now()
     today = datetime.datetime.today().strftime("%Y-%m-%d")
     found_today_marker = False
-    return_str = ""
 
     with open("./Todo/" + str(now.year) + "/" + str(now.month).zfill(2) + ".md", "r", encoding="utf-8") as file :
         lines = file.readlines()
+
+    return_str = lines[0]
 
     for line in lines :
         if line[2:12] == today :
             found_today_marker = True
             return_str += line
+        elif line[2:12] == ":--------:" :
+            return_str += line
         elif found_today_marker and line[2] == " " :
             return_str += line
         elif found_today_marker and line[2] != " " :
             return return_str
+    
+    return return_str
 
 if __name__ == "__main__" :
     with open("./README.md", "r", encoding="utf--8") as file :

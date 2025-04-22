@@ -34,6 +34,33 @@ def get_percent_type_challenges() -> float :
     
     return round(my_count * 100.0 / realize_count, 2)
 
+def get_percent_underscore() -> float :
+    """
+    This function is to get the work progress of `To-Realize-Underscore`
+    """
+
+    my_repo = g.get_repo(f"{MY_NAME}/To-Realize-Underscore")
+    my_content = my_repo.get_contents("modules")
+    my_count = sum(1 for content in my_content if content.type == "file")
+
+    realize_repo = g.get_repo("jashkenas/underscore")
+    realize_content = realize_repo.get_contents("modules")
+    realize_count = sum(1 for content in realize_content if content.type == "file")
+
+    return round(my_count * 100.0 / realize_count, 2)
+
+def realize_row(title: str, percent: float) -> str :
+    return "{:<30} {:<20} {:>8}%\n".format(
+        title,
+        percent_visualize(percent),
+        percent
+    )
+
+REALIZE_DATA = [
+    ["To-Realize-Type-Challenges", get_percent_type_challenges()],
+    ["To-Realize-Underscore",      get_percent_underscore()]
+]
+
 if __name__ == "__main__" :
     with open("./README.md", "r", encoding="utf--8") as file :
         lines = file.readlines()
@@ -46,13 +73,10 @@ if __name__ == "__main__" :
             found_marker = True
             updated_lines.append(line)
             updated_lines.append("``` plaintext\n")
-            updated_lines.append(
-                "{:<30} {:<20} {:>8}%\n".format(
-                    "To-Realize-Type-Challenges",
-                    percent_visualize(percent_type_challenges),
-                    percent_type_challenges
-                )
-            )
+
+            for realize in REALIZE_DATA :
+                updated_lines.append(realize_row(realize[0], realize[1]))
+
             updated_lines.append("```\n")
         elif line.strip() == "<!-- End Realize Status -->" :
             found_marker = False

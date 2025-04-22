@@ -41,3 +41,4 @@ duplicate with an existing username), you can call me Grey He, or 何昱晖 in C
 ``` plaintext
 To-Realize-Type-Challenges     ███▓░░░░░░░░░░░░░░░░    18.09%
 ```
+<!-- End Realize Status -->

@@ -51,4 +51,5 @@ To-Realize-Underscore          ██▒▒░░░░░░░░░░░░�
 | :--------: | :--------------------------------------------------- | :-----: | :---: |
 | 2025-04-22 | ✅ Use `pgvector` docker to set the database.         |  100%   |  2h   |
 |            | ✅ Open my first PR to ThetaWave.                     |  100%   |  2h   |
-|            | 🔲 Show the goal of TODAY in Github profile.          |   0%    |       |<!-- End Goal of Today -->
+|            | 🔲 Show the goal of TODAY in Github profile.          |   0%    |       |
+<!-- End Goal of Today -->

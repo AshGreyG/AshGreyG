@@ -39,7 +39,7 @@ duplicate with an existing username), you can call me Grey He, or 何昱晖 in C
 
 <!-- Begin Realize Status -->
 ``` plaintext
-To-Realize-Type-Challenges     ███▓░░░░░░░░░░░░░░░░    18.09%
+To-Realize-Type-Challenges     ███▓░░░░░░░░░░░░░░░░    18.62%
 To-Realize-Underscore          ██▒▒░░░░░░░░░░░░░░░░    12.27%
 ```
 <!-- End Realize Status -->
@@ -47,9 +47,8 @@ To-Realize-Underscore          ██▒▒░░░░░░░░░░░░�
 ### Goal of Today
 
 <!-- Begin Goal of Today -->
-|    Date    | Target                                               | Percent | Time  |
-| :--------: | :--------------------------------------------------- | :-----: | :---: |
-| 2025-04-22 | ✅ Use `pgvector` docker to set the database.         |  100%   |  2h   |
-|            | ✅ Open my first PR to ThetaWave.                     |  100%   |  2h   |
-|            | 🔲 Show the goal of TODAY in Github profile.          |   0%    |       |
-<!-- End Goal of Today -->
+|    Date    | Target                                                      | Percent | Time  |
+| :--------: | :---------------------------------------------------------- | :-----: | :---: |
+| 2025-04-23 | 🔲 Add the function that only pro users can use some models. |         |       |
+|            | 🔲 3 type challenges.                                        |         |       |
+|            | 🔲 WTF-Solidity 19, 20, 21                                   |         |       |<!-- End Goal of Today -->

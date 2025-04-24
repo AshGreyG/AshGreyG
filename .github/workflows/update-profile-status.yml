@@ -4,6 +4,7 @@ on:
     branches:
       - main
     paths:
+      - ".github/workflows/update-profile-status.yml"
       - "Todo/"
       - "build-profile.py"
 jobs:

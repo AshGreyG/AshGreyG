@@ -39,7 +39,7 @@ duplicate with an existing username), you can call me Grey He, or 何昱晖 in C
 
 <!-- Begin Realize Status -->
 ``` plaintext
-To-Realize-Type-Challenges     ███▓░░░░░░░░░░░░░░░░    18.62%
+To-Realize-Type-Challenges     ████░░░░░░░░░░░░░░░░    20.21%
 To-Realize-Underscore          ██▒▒░░░░░░░░░░░░░░░░    12.27%
 ```
 <!-- End Realize Status -->
@@ -49,7 +49,6 @@ To-Realize-Underscore          ██▒▒░░░░░░░░░░░░�
 <!-- Begin Goal of Today -->
 |    Date    | Target                                                      | Percent | Time  |
 | :--------: | :---------------------------------------------------------- | :-----: | :---: |
-| 2025-04-23 | 🔲 Add the function that only pro users can use some models. |         |       |
-|            | 🔲 3 type challenges.                                        |         |       |
-|            | 🔲 WTF-Solidity 19, 20, 21                                   |         |       |
-<!-- End Goal of Today -->
+| 2025-04-24 | 🔲 3 type challenges.                                        |         |       |
+|            | 🔲 Complete `Divide` and `Mod` methods in `TsTs`             |         |       |
+|            | 🔲 Use `VolcanoEngine` in ThetaWave create live lecture.     |         |       |<!-- End Goal of Today -->

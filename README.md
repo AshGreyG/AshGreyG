@@ -51,4 +51,5 @@ To-Realize-Underscore          ██▒▒░░░░░░░░░░░░�
 | :--------: | :---------------------------------------------------------- | :-----: | :---: |
 | 2025-04-23 | 🔲 Add the function that only pro users can use some models. |         |       |
 |            | 🔲 3 type challenges.                                        |         |       |
-|            | 🔲 WTF-Solidity 19, 20, 21                                   |         |       |<!-- End Goal of Today -->
+|            | 🔲 WTF-Solidity 19, 20, 21                                   |         |       |
+<!-- End Goal of Today -->

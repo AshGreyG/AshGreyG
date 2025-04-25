@@ -87,7 +87,7 @@ def get_today_goal() -> str :
         elif found_today_marker and line[2] != " " :
             return return_str + "\n"
     
-    return return_str
+    return return_str + "\n"
 
 if __name__ == "__main__" :
     with open("./README.md", "r", encoding="utf--8") as file :

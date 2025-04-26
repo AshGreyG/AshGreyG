@@ -49,6 +49,7 @@ To-Realize-Underscore          ██▒▒░░░░░░░░░░░░�
 <!-- Begin Goal of Today -->
 |    Date    | Target                                                      | Percent | Time  |
 | :--------: | :---------------------------------------------------------- | :-----: | :---: |
-| 2025-04-24 | 🔲 3 type challenges.                                        |         |       |
+| 2025-04-25 | 🔲 Use `VolcanoEngine` in ThetaWave create live lecture.     |         |       |
+|            | 🔲 3 type challenges.                                        |         |       |
 |            | 🔲 Complete `Divide` and `Mod` methods in `TsTs`             |         |       |
-|            | 🔲 Use `VolcanoEngine` in ThetaWave create live lecture.     |         |       |<!-- End Goal of Today -->
+|            | 🔲 *The Rust Programming Language* 4.3 / 5.                  |         |       |

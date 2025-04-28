@@ -5,7 +5,7 @@ on:
       - main
     paths:
       - ".github/workflows/update-profile-status.yml"
-      - "Todo/"
+      - "Todo/**/*.md"
       - "build-profile.py"
 jobs:
   Update-Recent-Realize-Percent:

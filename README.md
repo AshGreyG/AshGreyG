@@ -49,7 +49,5 @@ To-Realize-Underscore          ██▒▒░░░░░░░░░░░░�
 <!-- Begin Goal of Today -->
 |    Date    | Target                                                      | Percent | Time  |
 | :--------: | :---------------------------------------------------------- | :-----: | :---: |
-| 2025-04-25 | 🔲 Use `VolcanoEngine` in ThetaWave create live lecture.     |         |       |
-|            | 🔲 3 type challenges.                                        |         |       |
-|            | 🔲 Complete `Divide` and `Mod` methods in `TsTs`             |         |       |
-|            | 🔲 *The Rust Programming Language* 4.3 / 5.                  |         |       |
+| 2025-04-28 | ✅ Create `fix/cancel-selecting-course-restriction` branch   |  100%   |  1h   |
+|            | ✅ *The Modern JavaScript Tutorial* 4 objects                |  100%   |  2h   |

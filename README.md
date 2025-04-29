@@ -49,4 +49,7 @@ To-Realize-Underscore          ██▒▒░░░░░░░░░░░░�
 <!-- Begin Goal of Today -->
 |    Date    | Target                                                      | Percent | Time  |
 | :--------: | :---------------------------------------------------------- | :-----: | :---: |
-| 2025-04-29 | 🔲 *The Rust Programming Language* 4.3 / 5                   |         |       |
+| 2025-04-29 | ✅ *The Rust Programming Language* 4.3 / 5                   |  100%   |  3h   |
+|            | ✅ add "Chat" and "Reasoning" split row, add model icons ... |  100%   |  2h   |
+|            | ✅ Add a new method of `String` in `TsTs`.                   |  100%   | 30min |
+

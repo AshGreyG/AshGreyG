@@ -49,5 +49,4 @@ To-Realize-Underscore          ██▒▒░░░░░░░░░░░░�
 <!-- Begin Goal of Today -->
 |    Date    | Target                                                      | Percent | Time  |
 | :--------: | :---------------------------------------------------------- | :-----: | :---: |
-| 2025-04-28 | ✅ Create `fix/cancel-selecting-course-restriction` branch   |  100%   |  1h   |
-|            | ✅ *The Modern JavaScript Tutorial* 4 objects                |  100%   |  2h   |
+| 2025-04-29 | 🔲 *The Rust Programming Language* 4.3 / 5                   |         |       |

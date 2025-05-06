@@ -40,16 +40,13 @@ duplicate with an existing username), you can call me Grey He, or 何昱晖 in C
 <!-- Begin Realize Status -->
 ``` plaintext
 To-Realize-Type-Challenges     ████░░░░░░░░░░░░░░░░    20.21%
-To-Realize-Underscore          ██▒▒░░░░░░░░░░░░░░░░    12.27%
+To-Realize-Underscore          ██▒▒░░░░░░░░░░░░░░░░    12.88%
 ```
 <!-- End Realize Status -->
 
 ### Goal of Today
 
 <!-- Begin Goal of Today -->
-|    Date    | Target                                                      | Percent | Time  |
-| :--------: | :---------------------------------------------------------- | :-----: | :---: |
-| 2025-04-29 | ✅ *The Rust Programming Language* 4.3 / 5                   |  100%   |  3h   |
-|            | ✅ add "Chat" and "Reasoning" split row, add model icons ... |  100%   |  2h   |
-|            | ✅ Add a new method of `String` in `TsTs`.                   |  100%   | 30min |
-
+|    Date    | Target                                   | Percent | Time  |
+| :--------: | :--------------------------------------- | :-----: | :---: |
+| 2025-05-06 | 🔲 *The Rust Programming Language* 6 / 7. |         |       |

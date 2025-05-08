@@ -49,7 +49,6 @@ To-Realize-Underscore          ██▒▒░░░░░░░░░░░░�
 <!-- Begin Goal of Today -->
 |    Date    | Target                                               | Percent |  Time   |
 | :--------: | :--------------------------------------------------- | :-----: | :-----: |
-| 2025-05-07 | ✅ Tidy up room.                                      |  100%   | 1h13min |
-|            | 🔲 Complete `fix/superscript-transform-for-deepseek`. |         |         |
-|            | 🔲 *The Rust Programming Language* 7                  |         |         |
-|            | 🔲 *DSA In Python* 5.3 ~ 5.6                          |         |         |
+| 2025-05-08 | 🔲 *The Rust Programming Language* 8.                 |         |         |
+|            | 🔲 *DSA In Python* 5.3.                               |         |         |
+|            | 🔲 MIT6.006 1                                         |         |         |

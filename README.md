@@ -49,6 +49,4 @@ To-Realize-Underscore          ██▒▒░░░░░░░░░░░░�
 <!-- Begin Goal of Today -->
 |    Date    | Target                                               | Percent |  Time   |
 | :--------: | :--------------------------------------------------- | :-----: | :-----: |
-| 2025-05-08 | 🔲 *The Rust Programming Language* 8.                 |         |         |
-|            | 🔲 *DSA In Python* 5.3.                               |         |         |
-|            | 🔲 MIT6.006 1                                         |         |         |
+| 2025-05-09 | ✅ *The Rust Programming Language* 8.                 |  100%   |   2h    |

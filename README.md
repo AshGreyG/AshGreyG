@@ -18,22 +18,28 @@ duplicate with an existing username), you can call me Grey He, or 何昱晖 in C
 
 ## Currently Status
 
-### Study and Goals
+### Languages and Frameworks I Use
 
-+ Books / Docs currently reading:
-  + [ ] [*The Rust Programming Language*](https://docs.rust-lang.org)
-  + [ ] [*TypeScript Handbook*](https://typescriptlang.org/docs/handbook)
-  + [ ] [*Introduction to Modern Cryptography*](https://eclass.uniwa.gr/modules/document/file.php/CSCYB105/Reading%20Material/%5BJonathan_Katz%2C_Yehuda_Lindell%5D_Introduction_to_Mo%282nd%29.pdf)
-  + [ ] [*Learn Git Branching*](https://learngitbranching.js.org/?NODEMO)
-  + [ ] *CSS:The Definitive Guide*
-  + [ ] [*Structure and Interpretation of Computer Programs*](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
-+ Courses currently studying:
-  + [ ] [Blockchain](http://zhenxiao.com/album/juicebox/web/?s=2018_blockchain)
-+ Recent goals:
-  + [ ] Become a Web3 developer, find a Web3 remote job.
-  + [ ] Proficient in frontend, especially CSS.
-  + [ ] Experienced in git.
-  + [ ] Get started with cryptography.
+``` yaml
+Languages:
+  🦄 Familiar:
+    | TypeScript
+    | JavaScript
+  🫎 Comfortable:
+    | C++(not modern)
+    | Python
+  🐑 Currently Learning:
+    | Scheme
+    | Java
+    | Rust
+    | Solidity
+
+Frontend Frameworks:
+  🫎 Comfortable:
+    | React
+  🐑 Currently Learning:
+    | Next
+```
 
 ### Realize Repositories Status
 

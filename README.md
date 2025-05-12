@@ -20,26 +20,15 @@ duplicate with an existing username), you can call me Grey He, or 何昱晖 in C
 
 ### Languages and Frameworks I Use
 
-``` yaml
-Languages:
-  🦄 Familiar:
-    | TypeScript
-    | JavaScript
-  🫎 Comfortable:
-    | C++(not modern)
-    | Python
-  🐑 Currently Learning:
-    | Scheme
-    | Java
-    | Rust
-    | Solidity
+|                                       Language                                       | Familiarity                                                                                                                                                                        | Grammar | StdLib | Compiler |
+| :----------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----: | :----: | :------: |
+| <img src="https://assets.exercism.org/tracks/typescript.svg" width="30" height="30"> | 🦄 I am now a frontend developer, I mainly use TypeScript to develop a frontend project. And I am also a [TypeScript type system nerd](https://github.com/AshGreyG/Algorithm-TsTs). |    🍊    |   🍊    |    🔲     |
+| <img src="https://assets.exercism.org/tracks/javascript.svg" width="30" height="30"> | 🦄                                                                                                                                                                                  |    🍊    |   🍊    |    🔲     |
+|    <img src="https://assets.exercism.org/tracks/cpp.svg" width="30" height="30">     | 🫎                                                                                                                                                                                  |    🍊    |   🍊    |    🔲     |
+|   <img src="https://assets.exercism.org/tracks/python.svg" width="30" height="30">   | 🫎                                                                                                                                                                                  |    🍊    |   🍊    |    🔲     |
+|   <img src="https://assets.exercism.org/tracks/scheme.svg" width="30" height="30">   | 🐑                                                                                                                                                                                  |    🍊    |   🔲    |    🔲     |
+|    <img src="https://assets.exercism.org/tracks/java.svg" width="30" height="30">    | 🐑                                                                                                                                                                                  |    🍊    |   🔲    |    🔲     |
 
-Frontend Frameworks:
-  🫎 Comfortable:
-    | React
-  🐑 Currently Learning:
-    | Next
-```
 
 ### Realize Repositories Status
 
@@ -53,6 +42,6 @@ To-Realize-Underscore          ██▒▒░░░░░░░░░░░░�
 ### Goal of Today
 
 <!-- Begin Goal of Today -->
-|    Date    | Target                                               | Percent |  Time   |
-| :--------: | :--------------------------------------------------- | :-----: | :-----: |
-| 2025-05-09 | ✅ *The Rust Programming Language* 8.                 |  100%   |   2h    |
+|    Date    | Target                               | Percent | Time  |
+| :--------: | :----------------------------------- | :-----: | :---: |
+| 2025-05-09 | ✅ *The Rust Programming Language* 8. |  100%   |  2h   |

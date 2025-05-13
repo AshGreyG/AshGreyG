@@ -49,6 +49,6 @@ To-Realize-Underscore          ██▒▒░░░░░░░░░░░░�
 ### Goal of Today
 
 <!-- Begin Goal of Today -->
-|    Date    | Target                               | Percent | Time  |
-| :--------: | :----------------------------------- | :-----: | :---: |
-| 2025-05-09 | ✅ *The Rust Programming Language* 8. |  100%   |  2h   |
+|    Date    | Target                                               | Percent |  Time   |
+| :--------: | :--------------------------------------------------- | :-----: | :-----: |
+

@@ -51,4 +51,5 @@ To-Realize-Underscore          ██▒▒░░░░░░░░░░░░�
 <!-- Begin Goal of Today -->
 |    Date    | Target                                               | Percent |  Time   |
 | :--------: | :--------------------------------------------------- | :-----: | :-----: |
-
+| 2025-05-13 | 🔲 *The Rust Programming Language* 9.                 |         |         |
+|            | 🔲 *FP In Lean* 1.4 / 1.5                             |         |         |

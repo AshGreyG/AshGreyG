@@ -42,7 +42,7 @@ duplicate with an existing username), you can call me Grey He, or 何昱晖 in C
 <!-- Begin Realize Status -->
 ``` plaintext
 To-Realize-Type-Challenges     ████░░░░░░░░░░░░░░░░    20.21%
-To-Realize-Underscore          ██▒▒░░░░░░░░░░░░░░░░    12.88%
+To-Realize-Underscore          ██▓░░░░░░░░░░░░░░░░░     13.5%
 ```
 <!-- End Realize Status -->
 
@@ -51,7 +51,7 @@ To-Realize-Underscore          ██▒▒░░░░░░░░░░░░�
 <!-- Begin Goal of Today -->
 |    Date    | Target                                                  | Percent |  Time   |
 | :--------: | :------------------------------------------------------ | :-----: | :-----: |
-| 2025-05-15 | 🔲 Add new commits to `To-Realize-Underscore`.           |         |         |
+| 2025-05-16 | 🔲 Add new commits to `To-Realize-Underscore`.           |         |         |
 |            | 🔲 *The Rust Programming Language* 10                    |         |         |
-|            | *FP In Lean* 1.6                                        |         |         |
-|            | MIT 6.006 Lecture 2                                     |         |         |
+|            | 🔲 *FP In Lean* 1.6                                      |         |         |
+|            | 🔲 MIT 6.006 Lecture 2                                   |         |         |

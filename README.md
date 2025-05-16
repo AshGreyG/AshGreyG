@@ -51,7 +51,7 @@ To-Realize-Underscore          ██▓░░░░░░░░░░░░░�
 <!-- Begin Goal of Today -->
 |    Date    | Target                                                  | Percent |  Time   |
 | :--------: | :------------------------------------------------------ | :-----: | :-----: |
-| 2025-05-16 | 🔲 Add new commits to `To-Realize-Underscore`.           |         |         |
-|            | 🔲 *The Rust Programming Language* 10                    |         |         |
-|            | 🔲 *FP In Lean* 1.6                                      |         |         |
-|            | 🔲 MIT 6.006 Lecture 2                                   |         |         |
+| 2025-05-16 | ❌ Add new commits to `To-Realize-Underscore`.           |         |         |
+|            | ❌ *The Rust Programming Language* 10                    |         |         |
+|            | ✅ *FP In Lean* 1.6                                      |  100%   |   3h    |
+|            | ❌ MIT 6.006 Lecture 2                                   |         |         |

@@ -1,7 +1,7 @@
 ## Basic Info
 
 Hi there 🥝, I am AshGrey (github username AshGreyG is just for avoiding 
-duplicate with an existing username), you can call me Grey He, or 何昱晖 in Chinese.
+duplicate with an existing username), you can call me Grey He.
 + 🍊 [懐尓](https://github.com/huaier007). She is my best friend, my girlfriend, 
   my wife and my soulmate. She is the eternal spring in my life.
 + 🫐 I have a [personal website](https://www.huaier-ashgrey.top), where my notes 
@@ -10,15 +10,22 @@ duplicate with an existing username), you can call me Grey He, or 何昱晖 in C
   (possibly I will never graduate) in the 
   [School of Pharmaceutical Science](https://www.sps.tsinghua.edu.cn/spsen/). 
   I hate school-learning.
-+ 🥦 I am really interested in all the subjects that have abstract knowledge. Such 
-  as CS, Math and Physics. I extremely love coding, and purchase high-quality code.
++ 🥦 I am really interested in abstract knowledge. Currently I am interested in
+  **Type Theory**, **Frontend Toolchain Develop**.
 + 🥑 Contact me
-  + WeChat: Huaier [dash] AshGrey
-  + Email: ashgrey [dot] huaier [at] gmail [at] com
+  + 💬 WeChat: Huaier [dash] AshGrey
+  + 📭 Email: ashgrey [dot] huaier [at] gmail [at] com
 
 ## Currently Status
 
 ### Languages and Frameworks I Use
+
+![Languages & Frameworks I use](https://skillicons.dev/icons?i=ts,js,python,rust,cpp,solidity,react,nextjs,tailwindcss,neovim,arch)
+
+<details>
+<summary>
+  🙈 Detailed version
+</summary>
 
 |                                       Language                                       | Familiarity                                                                                                                                                                                                                                                          | Grammar | StdLib | Compiler |
 | :----------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----: | :----: | :------: |
@@ -36,6 +43,40 @@ duplicate with an existing username), you can call me Grey He, or 何昱晖 in C
 2. 🫎: Comfortable
 3. 🐑: Currently Learning
 
+</details>
+
+### Github Status
+
+<a href="#Github%20Status" align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=AshGreyG&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=github_dark&hide_border=true&bg_color=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=AshGreyG&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=default&hide_border=true&bg_color=00000000"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=AshGreyG&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=transparent" />
+  </picture>
+</a>
+
+<picture>
+  <source
+    srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=AshGreyG&border_color=0000&bg_color=0000&theme=nord_dark"
+    media="(prefers-color-scheme: dark)" 
+  />
+  <source
+    srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=AshGreyG&border_color=0000&bg_color=0000&theme=nord_bright"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+  />
+  <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=AshGreyG&border_color=0000&bg_color=0000" height="100%" />
+</picture>
+
+<details>
+<summary>
+  🙈 Personal status, open it only you are really interested
+</summary>
 
 ### Realize Repositories Status
 
@@ -55,3 +96,9 @@ To-Realize-Underscore          ██▓░░░░░░░░░░░░░�
 |            | ❌ *The Rust Programming Language* 10                    |         |         |
 |            | ✅ *FP In Lean* 1.6                                      |  100%   |   3h    |
 |            | ❌ MIT 6.006 Lecture 2                                   |         |         |
+| 2025-05-16 | 🔲 Add new commits to `To-Realize-Underscore`.           |         |         |
+|            | 🔲 *The Rust Programming Language* 10                    |         |         |
+|            | 🔲 *FP In Lean* 1.6                                      |         |         |
+|            | 🔲 MIT 6.006 Lecture 2                                   |         |         |
+
+</details>

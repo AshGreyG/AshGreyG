@@ -47,31 +47,38 @@ duplicate with an existing username), you can call me Grey He.
 
 ### Github Status
 
-<a href="#Github%20Status" align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=AshGreyG&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=github_dark&hide_border=true&bg_color=00000000"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=AshGreyG&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=default&hide_border=true&bg_color=00000000"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=AshGreyG&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=transparent" />
-  </picture>
-</a>
-
-<picture>
-  <source
-    srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=AshGreyG&border_color=0000&bg_color=0000&theme=nord_dark"
-    media="(prefers-color-scheme: dark)" 
-  />
-  <source
-    srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=AshGreyG&border_color=0000&bg_color=0000&theme=nord_bright"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
-  />
-  <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=AshGreyG&border_color=0000&bg_color=0000" height="100%" />
-</picture>
+<table width="100%" align="center">
+  <tr>
+    <td colspan="3" align="center">
+      <a href="#Github%20Status" align="center">
+        <picture>
+          <source 
+            srcset="https://github-readme-stats.vercel.app/api?username=AshGreyG&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=github_dark&hide_border=true&bg_color=00000000"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-stats.vercel.app/api?username=AshGreyG&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=default&hide_border=true&bg_color=00000000"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img src="https://github-readme-stats.vercel.app/api?username=AshGreyG&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=transparent" />
+        </picture>
+      </a>
+    </td>
+    <td colspan="3" align="center">
+      <picture>
+        <source
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=AshGreyG&border_color=0000&bg_color=0000&theme=nord_dark"
+          media="(prefers-color-scheme: dark)" 
+        />
+        <source
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=AshGreyG&border_color=0000&bg_color=0000&theme=nord_bright"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+        />
+        <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=AshGreyG&border_color=0000&bg_color=0000" height="100%" />
+      </picture>
+    </td>
+  <tr>
+</table>
 
 <details>
 <summary>
@@ -90,15 +97,15 @@ To-Realize-Underscore          ██▓░░░░░░░░░░░░░�
 ### Goal of Today
 
 <!-- Begin Goal of Today -->
-|    Date    | Target                                                  | Percent |  Time   |
-| :--------: | :------------------------------------------------------ | :-----: | :-----: |
-| 2025-05-16 | ❌ Add new commits to `To-Realize-Underscore`.           |         |         |
-|            | ❌ *The Rust Programming Language* 10                    |         |         |
-|            | ✅ *FP In Lean* 1.6                                      |  100%   |   3h    |
-|            | ❌ MIT 6.006 Lecture 2                                   |         |         |
-| 2025-05-16 | 🔲 Add new commits to `To-Realize-Underscore`.           |         |         |
-|            | 🔲 *The Rust Programming Language* 10                    |         |         |
-|            | 🔲 *FP In Lean* 1.6                                      |         |         |
-|            | 🔲 MIT 6.006 Lecture 2                                   |         |         |
+|    Date    | Target                                        | Percent | Time  |
+| :--------: | :-------------------------------------------- | :-----: | :---: |
+| 2025-05-16 | ❌ Add new commits to `To-Realize-Underscore`. |         |       |
+|            | ❌ *The Rust Programming Language* 10          |         |       |
+|            | ✅ *FP In Lean* 1.6                            |  100%   |  3h   |
+|            | ❌ MIT 6.006 Lecture 2                         |         |       |
+| 2025-05-16 | 🔲 Add new commits to `To-Realize-Underscore`. |         |       |
+|            | 🔲 *The Rust Programming Language* 10          |         |       |
+|            | 🔲 *FP In Lean* 1.6                            |         |       |
+|            | 🔲 MIT 6.006 Lecture 2                         |         |       |
 
 </details>

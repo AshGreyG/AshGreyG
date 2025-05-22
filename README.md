@@ -90,22 +90,16 @@ duplicate with an existing username), you can call me Grey He.
 <!-- Begin Realize Status -->
 ``` plaintext
 To-Realize-Type-Challenges     ████░░░░░░░░░░░░░░░░    20.21%
-To-Realize-Underscore          ██▓░░░░░░░░░░░░░░░░░     13.5%
+To-Realize-Underscore          ██▓▒░░░░░░░░░░░░░░░░    14.72%
 ```
 <!-- End Realize Status -->
 
 ### Goal of Today
 
 <!-- Begin Goal of Today -->
-|    Date    | Target                                        | Percent | Time  |
-| :--------: | :-------------------------------------------- | :-----: | :---: |
-| 2025-05-16 | ❌ Add new commits to `To-Realize-Underscore`. |         |       |
-|            | ❌ *The Rust Programming Language* 10          |         |       |
-|            | ✅ *FP In Lean* 1.6                            |  100%   |  3h   |
-|            | ❌ MIT 6.006 Lecture 2                         |         |       |
-| 2025-05-16 | 🔲 Add new commits to `To-Realize-Underscore`. |         |       |
-|            | 🔲 *The Rust Programming Language* 10          |         |       |
-|            | 🔲 *FP In Lean* 1.6                            |         |       |
-|            | 🔲 MIT 6.006 Lecture 2                         |         |       |
-
-</details>
+|    Date    | Target                                                  | Percent |  Time   |
+| :--------: | :------------------------------------------------------ | :-----: | :-----: |
+| 2025-05-22 | ✅ Add new commits to `To-Realize-Underscore`.           |  100%   |   1h    |
+|            | ✅ Learn Husky.                                          |  100%   |  10min  |
+|            | 🔲 *The Rust Programming Language* 11                    |         |         |
+|            | 🔲 *FP In Lean* 1.7                                      |         |         |

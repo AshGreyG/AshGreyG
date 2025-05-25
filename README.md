@@ -1,3 +1,6 @@
+> [!tip]
+> Be yourself. Show yourself.
+
 ## Basic Info
 
 Hi there 🥝, I am AshGrey (github username AshGreyG is just for avoiding 

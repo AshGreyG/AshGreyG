@@ -23,7 +23,7 @@ duplicate with an existing username), you can call me Grey He.
 
 ### Languages and Frameworks I Use
 
-![Languages & Frameworks I use](https://skillicons.dev/icons?i=ts,js,python,rust,cpp,solidity,react,nextjs,tailwindcss,neovim,arch)
+![Languages & Frameworks I use](https://skillicons.dev/icons?i=ts,js,html,css,python,rust,cpp,solidity,react,nextjs,tailwindcss,neovim,vscode,arch,postgresql)
 
 <details>
 <summary>

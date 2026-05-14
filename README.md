@@ -1,5 +1,3 @@
-## Basic Info
-
 Hi there 🥝, I am AshGrey (github username AshGreyG is just for avoiding 
 duplicate with an existing username), you can call me Grey He.
 + 🍊 [懐尓](https://github.com/huaier007). She is my best friend, my girlfriend, 
@@ -15,9 +13,3 @@ duplicate with an existing username), you can call me Grey He.
 + 🥑 Contact me
   + 💬 WeChat: Huaier [dash] AshGrey
   + 📭 Email: ashgrey [dot] huaier [at] gmail [at] com
-
-## Currently Status
-
-### Languages and Frameworks I Use
-
-![Languages & Frameworks I use](https://skillicons.dev/icons?i=ts,js,html,css,bash,latex,md,python,rust,cpp,cmake,solidity,react,nextjs,prisma,tailwindcss,neovim,vscodium,arch,postgresql,docker,vercel,git,github,githubactions,pnpm)

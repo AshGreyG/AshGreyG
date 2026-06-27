@@ -1,21 +1,29 @@
 #!/bin/sh
 
-rm -f *.pdf
+rm -f ./*.pdf
 
-files=("resume-frontend-zh" "resume-frontend-en")
+files="
+  resume-frontend-zh
+  resume-frontend-en
+"
 echo "Generating..."
 
-for f in "${files[@]}"; do
+for f in $files; do
+  case "$f" in
+    *-zh) base="${f%-zh}" ;;
+    *-en) base="${f%-en}" ;;
+    *) base="$f" ;;
+  esac
+
   {
-    echo "#import \"./Resume/${f:0:${f[@]}-3}.typ\": *;"
+    echo "#import \"./resume/${base}.typ\": *"
     echo "#show: cv"
   } > "$f.typ"
 
-  if [ ${f: -2} == "zh" ]; then
-    echo "#run-i18n(Chinese)" >> "$f.typ"
-  elif [ ${f: -2} == "en" ]; then
-    echo "#run-i18n(English)" >> "$f.typ"
-  fi
+  case "$f" in
+    *-zh) echo "#run-i18n(Chinese)" >> "$f.typ" ;;
+    *-en) echo "#run-i18n(English)" >> "$f.typ" ;;
+  esac
 
   echo "Building $f.typ"
   typst compile "$f.typ"
